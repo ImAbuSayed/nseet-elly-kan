@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nseet-elly-kan/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Nseet Elly Kan](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
